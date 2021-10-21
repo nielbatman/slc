@@ -11,7 +11,7 @@ if(isset($_SESSION['UserLogin'])) {
 }
 
 require_once 'process.php'; 
- $con = new mysqli("sql6.freesqldatabase.com","sql6443394","CJ5xmVq4Xm","sql6443394");
+ $con = new mysqli("sql6.freesqldatabase.com","sql6445814","UKuzJdrHiA","sql6445814");
  if(isset($_SESSION['message'])):
     
 ?>
