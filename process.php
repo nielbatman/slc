@@ -4,7 +4,7 @@ if(!isset($_SESSION)) {
 session_start();
 }
 // Create connection
-$con = new mysqli("sql6.freesqldatabase.com","sql6443394","CJ5xmVq4Xm","sql6443394");
+$con = new mysqli("sql6.freesqldatabase.com","sql6445814","UKuzJdrHiA","sql6445814");
 
 // Check connection
 if ($con->connect_error) {
